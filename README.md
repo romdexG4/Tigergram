@@ -237,7 +237,7 @@ AI-assisted development tools, including Claude AI, were used during development
 
 Feel free to modify, improve, fork, or build upon this project. The goal of Tigergram is to provide a foundation for Telegram access on legacy Macintosh systems and to encourage experimentation and preservation of classic computing platforms.
 
-I will only distribute my own official builds through Macintosh Garden. Any third-party builds, modifications, or redistributions are the responsibility of their respective authors.
+I will only distribute my own official builds through Macintosh Garden http://macintoshgarden.org/ or here on thie GitHub page. Any third-party builds, modifications, or redistributions are the responsibility of their respective authors.
 
 ---
 
