@@ -6,7 +6,7 @@ Tigergram and its companion Gateway brings the Telegram messenger to Mac OS X 10
 
 Tigergram is an independent and unofficial Telegram client for Mac OS X 10.4 Tiger, designed to bring modern messaging to classic PowerPC and early Intel Macintosh systems.
 
-The client itself is written in Objective-C and runs natively on Mac OS X Tiger. Because modern Telegram infrastructure relies on technologies that are difficult or impossible to support directly on Mac OS X 10.4—including modern TLS versions, cryptographic libraries, and the MTProto protocol—Tigergram uses a companion Python gateway server running on a modern machine. The gateway communicates with Telegram and relays data to the Tiger client.
+The client itself is written in Objective-C and runs natively on Mac OS X Tiger. Because modern Telegram infrastructure relies on technologies that are difficult or impossible to support directly on Mac OS X 10.4, including modern TLS versions, cryptographic libraries, and the MTProto protocol—Tigergram uses a companion Python gateway server running on a modern machine. The gateway communicates with Telegram and relays data to the Tiger client.
 
 Tigergram is currently experimental but already capable of basic day-to-day messaging.
 
