@@ -1,0 +1,65 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {chatSelected = id; myAction = id; }; 
+            CLASS = ChatListController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                chatTableView = id; 
+                messageViewController = id; 
+                myOutlet = id; 
+                statusLabel = id; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {
+                clearMediaCache = id; 
+                clearReply = id; 
+                downloadSelectedMedia = id; 
+                inputFieldAction = id; 
+                myAction = id; 
+                myAction1 = id; 
+                replyToSelected = id; 
+                sendMessage = id; 
+            }; 
+            CLASS = MessageViewController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                avatarView = id; 
+                bioLabel = id; 
+                clearReplyButton = id; 
+                inputField = id; 
+                mediaPreview1 = id; 
+                mediaPreview2 = id; 
+                mediaPreview3 = id; 
+                mediePreview4 = id; 
+                messageTableView = id; 
+                messageWindow = id; 
+                myOutlet = id; 
+                replyLabel = id; 
+                sendButton = id; 
+                statusLabel = id; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {
+            ACTIONS = {connect = id; }; 
+            CLASS = SetupController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                chatListController = id; 
+                chatWindow = id; 
+                connect = id; 
+                connectButton = id; 
+                errorLabel = id; 
+                ipField = id; 
+                portField = id; 
+                setupWindow = id; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}
