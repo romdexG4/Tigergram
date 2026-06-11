@@ -1,0 +1,15 @@
+# Telegram session file - contains your login!
+session.session
+session.session-journal
+
+# Avatar and media cache
+avatars/
+media_cache/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
